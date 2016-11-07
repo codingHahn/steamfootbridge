@@ -8,12 +8,7 @@ def error(message):
     exit(1)
 
 def help():
-    print "Command: \t \t \t  Description:"
-    print "\t-v, --version or version : Prints the version of steamfootbridge to the screen"
-    print "\t-h, --help or help       : Prints this screen"
-    print "\tdownload {steamid}       : Downloads the specified app"
-    print "\texecute {steamid}        : Execute the app"
-    print "\tsetup {steamid}          : Set up a new Wineprefix for the specified app"
+    print "TODO: Usage statement"
     exit(0)
 
 def version():
